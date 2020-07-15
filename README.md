@@ -1,5 +1,5 @@
 
-<img height="500" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif" id="hp">
+<img align="center" height="500" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif" id="hp">
 
 Here are some ideas to get you started:
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://medium.com/@sanchitvj">
   <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true)
 
