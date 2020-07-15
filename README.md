@@ -1,6 +1,6 @@
 
 
-<p  align="left" img height="400" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif" style="text-align:right;"
+<p><align="left" img height="400" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif">
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Deep Learning Computer Vision.
 - 🌱 I’m currently learning Natural Language Processing.
