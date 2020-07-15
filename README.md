@@ -1,7 +1,7 @@
 
 
-<p  align="left"><img height="400" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif"></p>
-<p style="text-align:right;">
+<p  align="left"><img height="400" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif"
+style="text-align:right;">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Deep Learning Computer Vision.
