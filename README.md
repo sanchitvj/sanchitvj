@@ -1,6 +1,5 @@
 
-<p  align="left"><img height="500" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif"></p>
-<p align="right">
+<p  align="left"><img height="500" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif">
   <br>Here are some ideas to get you started:</br>
 <br>- 🔭 I’m currently working on Deep Learning Computer Vision.
 <br>- 🌱 I’m currently learning Natural Language Processing.
