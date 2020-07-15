@@ -1,6 +1,6 @@
 
 
-<p  align="center"><img height="400" src = "https://giphy.com/gifs/S5cNJUokTaBmdtBYe3"></p>
+<p  align="center"><img height="400" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif"></p>
 <!--
 **sanchitvj/sanchitvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
