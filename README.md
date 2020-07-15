@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Neural Style Transfer.
 - 📫 How to reach me: sanchitvj1026@gmail.com
 - 😄 Pronouns: Anything you like.
-- ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.
+- ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  
 
+You can find me here:
 <br>
 <a href="https://twitter.com/sanchit_vijay">
   <img align="left" alt="Sanchit Vijay | Twitter" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" />
@@ -24,7 +25,5 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@sanchitvj">
   <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 <br>
-
-![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)
