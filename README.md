@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.
 
 
-![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true)
