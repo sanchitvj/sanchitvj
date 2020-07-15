@@ -1,8 +1,6 @@
 
 
 <p  align="left"><img height="400" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif"></p>
-<!--
-**sanchitvj/sanchitvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,8 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sanchitvj1026@gmail.com
 - 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.
--->
-
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
