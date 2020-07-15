@@ -1,5 +1,5 @@
 
-<p  align="left"><img height="500" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
+<p  align="left"><img height="500" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif"></p>
 <p align="right">
   <br>Here are some ideas to get you started:</br>
 <br>- 🔭 I’m currently working on Deep Learning Computer Vision.
