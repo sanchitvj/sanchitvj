@@ -1,6 +1,6 @@
 
-<p  align="center"><img height="500" src = "https://media.giphy.com/media/S5cNJUokTaBmdtBYe3/giphy.gif" id="hp"></p>
 
+<p  align="center"><img height="500" src = "https://github.com/sanchitvj/sanchitvj/blob/master/intro_gif.gif"></p>
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Deep Learning Computer Vision.
@@ -25,6 +25,6 @@
 </a>
 <a href="https://medium.com/@sanchitvj">
   <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />  
-
+</a>
   
 <br>![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)
