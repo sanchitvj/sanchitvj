@@ -24,9 +24,6 @@
   <img align="left" alt="Sanchit's Kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
 </a>
 <a href="https://medium.com/@sanchitvj">
-  <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
-<br>  
-      
-   
+  <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />  
   
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)
