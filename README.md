@@ -27,5 +27,5 @@
   <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />  
 </a>
   
-<!---<br>![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)--->
-![Visitor Count](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)-->
+![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
