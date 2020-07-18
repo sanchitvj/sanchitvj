@@ -28,4 +28,4 @@
 </a>
   
 <!---<br>![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)--->
-![Visitor Count](https : //profile-counter.glitch.me/{sanchitvj}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
