@@ -26,8 +26,8 @@
 <a href="https://medium.com/@sanchitvj">
   <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />  
 </a>
-  
-<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)-->
-<br>    
+<br>  
+
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)-->  
 <br>**Visitors Count**  
 <br>![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
