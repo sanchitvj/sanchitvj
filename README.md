@@ -11,9 +11,7 @@
 - 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  
 
-**You can find me here:**
-  
-<br>
+**You can find me here:**  
 <a href="https://twitter.com/sanchit_vijay">
   <img align="left" alt="Sanchit Vijay | Twitter" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" />
 </a>
