@@ -30,4 +30,4 @@
 
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)-->  
 <br>**Visitors Count**  
-<br>![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
