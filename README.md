@@ -1,6 +1,7 @@
 
 
-<p  align="center"><img height="500" src = "https://github.com/sanchitvj/sanchitvj/blob/master/intro_gif.gif"></p>
+<p  align="center"><img height="500" src = "https://github.com/sanchitvj/sanchitvj/blob/master/intro_gif.gif"></p>  
+
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Deep Learning Computer Vision.
