@@ -25,5 +25,7 @@
   <img align="left" alt="Sanchit's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />  
 </a>
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)-->  
+
+![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 <br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
