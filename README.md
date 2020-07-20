@@ -31,8 +31,10 @@
 |  <a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |<a href="https://www.https://www.linkedin.com/in/sanchit-vijay-774432178"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
-<a href="https://www.https://medium.com/@sanchitvj"><img src="https://medium.com/@sanchitvj" width="32px" height="32px"></a>
+<a href="https://www.https://medium.com/@sanchitvj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>
 <a href="https://www.kaggle.com/sanchitvj"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32px" height="32px"></a>  
 <a href="https://mobile.twitter.com/sanchit_vijay"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>|
+  
+
 <br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
