@@ -29,7 +29,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)
 -->  
 
-<img align='left' height="250" src = "https://media.giphy.com/media/mXuPwEBHCtaH2ndoBy/giphy.gif">
+<img align='right' height="250" src = "https://media.giphy.com/media/mXuPwEBHCtaH2ndoBy/giphy.gif">
 
 **You can find me here:**  
 |  <a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
