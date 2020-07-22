@@ -28,6 +28,9 @@
 </a>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)
 -->  
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
 **You can find me here:**  
 |  <a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
