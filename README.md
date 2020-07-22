@@ -20,4 +20,4 @@ You can find me here
 <p align = "center"><a href="https://www.linkedin.com/in/sanchit-vijay-774432178"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@sanchitvj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/sanchitvj"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32px" height="32px"></a>  <a href="https://mobile.twitter.com/sanchit_vijay"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
   
 <p align = "center">Visitors Count</p>
-<p align = "center">[![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)]</p>
+<p align = "center"><a>![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)</a></p>
