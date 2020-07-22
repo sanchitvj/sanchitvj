@@ -14,7 +14,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
  
- <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 <!-- <a href="https://twitter.com/sanchit_vijay">
   <img align="left" alt="Sanchit Vijay | Twitter" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" />
 </a>
