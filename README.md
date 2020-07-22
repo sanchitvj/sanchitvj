@@ -26,11 +26,12 @@
 </a>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sanchitvj.sanchitvj)
 <img align='right' src='https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif' width='300"'>  
--->  
+-->
+  
 <p align = "center">  
-**You can find me here**</p>
+**You can find me here**</p>  
 <p align = "center"><a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a></p>  
-<p align = "center"><a href="https://www.linkedin.com/in/sanchit-vijay-774432178"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@sanchitvj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/sanchitvj"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32px" height="32px"></a>  <a href="https://mobile.twitter.com/sanchit_vijay"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>
+<p align = "center"><a href="https://www.linkedin.com/in/sanchit-vijay-774432178"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@sanchitvj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/sanchitvj"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32px" height="32px"></a>  <a href="https://mobile.twitter.com/sanchit_vijay"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
  
-<br>**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
+<p align = "center"><br>**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)</p>
