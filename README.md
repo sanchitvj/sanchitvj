@@ -17,7 +17,7 @@
 You can find me here
 </p>
 <p align = "center"><a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a></p>  
-<p align = "center"><a href="https://www.linkedin.com/in/sanchit-vijay-774432178"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@sanchitvj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/sanchitvj"><img src="https://freight.cargo.site/w/800/i/76864893ce8ce19e015924a9eb25c6e46959be4d2509bde53273f18167b5881c/kaggle-thumbnail.jpg" width="32px" height="32px"></a>  <a href="https://mobile.twitter.com/sanchit_vijay"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
+<p align = "center"><a href="https://www.linkedin.com/in/sanchit-vijay-774432178"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@sanchitvj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/sanchitvj"><img src="https://static.wixstatic.com/media/e51000_3f9357c3cd4346fe8296c76e1f2e52e0~mv2.png/v1/fit/w_250,h_250,al_c,q_80/file.png" width="32px" height="32px"></a>  <a href="https://mobile.twitter.com/sanchit_vijay"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
   
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
