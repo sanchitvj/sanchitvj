@@ -10,7 +10,7 @@
 - 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  
 
-![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)  
+![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  
 
 <p align = "center">
