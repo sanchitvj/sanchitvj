@@ -3,7 +3,7 @@
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Deep Learning Computer Vision.
-- 🌱 I’m currently learning Pytorch.
+- 🌱 I’m currently learning Tensorflow.
 - 👯 I’m looking to collaborate on Kaggle projects.
 - 🤔 I’m looking for help with VAE and GAN.
 - 📫 How to reach me: sanchitvj1026@gmail.com
