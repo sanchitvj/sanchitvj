@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Deep Learning Computer Vision.
 - 🌱 I’m currently learning Tensorflow.
-- 👯 I’m looking to collaborate on Kaggle projects.
-- 🤔 I’m looking for help with VAE and GAN.
+- 👯 I’m looking to collaborate on Kaggle and Research-based projects.
+- 🤔 I’m looking for help with [Stacked Hourglass Network](https://arxiv.org/abs/1603.06937#:~:text=We%20refer%20to%20the%20architecture,benchmarks%20outcompeting%20all%20recent%20methods.), [JPP-Net](https://arxiv.org/pdf/1804.01984).
 - 📫 How to reach me: sanchitvj1026@gmail.com
 <!--- 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
