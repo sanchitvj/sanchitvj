@@ -12,8 +12,8 @@
 
 <!--![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515&card_width="450")
 <!--<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  -->
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitvj&theme=radical" alt="sanchitvj" width="450" /></p>
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&locale=en&theme=blue-green" alt="sanchitvj" width="450" /></p>  
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitvj&theme=radical" alt="sanchitvj" width="300" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&locale=en&theme=blue-green" alt="sanchitvj" width="300" /></p>  
 <!--<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitvj&" alt="sanchitvj" /></p>-->
 
 <br><br><br><br><br><br><br><br><p align = "center"><b>You can find me here</b></p>
