@@ -3,7 +3,7 @@
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Deep Learning Computer Vision, [ActiveloopAI Hub](https://github.com/activeloopai/Hub).
-- 🌱 I’m currently learning Tensorflow.
+- 🌱 I’m currently learning TensorFlow and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
 - 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).
 - 📫 How to reach me: sanchitvj1026@gmail.com
