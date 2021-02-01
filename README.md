@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Deep Learning Computer Vision, and [Kaggle Challenge](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview).
 - 🌱 I’m currently learning TensorFlow and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
-<!--- 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).-->
 - 📫 How to reach me: sanchitvj1026@gmail.com
+<!--- 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).-->
 <!--- 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
 
