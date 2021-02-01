@@ -2,10 +2,10 @@
 
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on Deep Learning Computer Vision, [ActiveloopAI Hub](https://github.com/activeloopai/Hub).
+- 🔭 I’m currently working on Deep Learning Computer Vision, and [Kaggle Challenge](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview).
 - 🌱 I’m currently learning TensorFlow and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
-- 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).
+<!--- 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).-->
 - 📫 How to reach me: sanchitvj1026@gmail.com
 <!--- 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
