@@ -2,11 +2,18 @@
 
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on Deep Learning Computer Vision, and [Kaggle Challenge](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview).
+- 🔭 I’m currently working on Deep Learning, Computer Vision, and Object Detection.
+- ⚙ Kaggle Competitions I'm part of:
+  - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+    - 🥈 Completed, Top 4%, 149/3900(Silver Medal)  
+  - [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)  
+    - Ongoing  
+  - [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)  
+    - Ongoing  
 - 🌱 I’m currently learning TensorFlow and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
 - 📫 How to reach me: sanchitvj1026@gmail.com
-<!--- 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).-->
+- 🤔 I’m looking for help with YOLO Object Detection Algorithm.
 <!--- 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
 
