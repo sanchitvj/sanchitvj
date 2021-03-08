@@ -14,8 +14,8 @@
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
 - 📫 How to reach me: sanchitvj1026@gmail.com
 - 🤔 I’m looking for help with YOLO Object Detection Algorithm.
-<!--- 😄 Pronouns: Anything you like.
-- ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
+- ⚡ Fun fact: I am GPU hungry.  
+<!--- 😄 Pronouns: Anything you like. -->  
 
 <!--![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515&card_width="450")
 <!--<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  -->
