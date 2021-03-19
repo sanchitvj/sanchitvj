@@ -7,7 +7,7 @@
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
     - 🥈 Completed, Top 4%, 149/3900(Silver Medal)  
   - [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)  
-    - 🥈 Completed, Top 5%, 70/1549(Silver Medal)  
+    - 🥈 Completed, Top 5%, 70/1547(Silver Medal)  
   - [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)  
     - Ongoing  
 - 🌱 I’m currently learning TensorFlow and Pytorch.
