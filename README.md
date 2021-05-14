@@ -2,6 +2,7 @@
 
 **Here are some ideas to get you started:**
 
+- Temporarily not active on GitHub, working on a research, will be back soon with something exciting.    
 - 🔭 I’m currently working on Deep Learning, Computer Vision, and Object Detection.
 - ⚙ Kaggle Competitions I'm part of:
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
@@ -11,7 +12,7 @@
 - 🌱 I’m currently learning TensorFlow and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
 - 📫 How to reach me: sanchitvj1026@gmail.com
-- 🤔 I’m looking for help with YOLO Object Detection Algorithm.
+- 🤔 I’m looking for help with Segmentation Algorithm.
 - ⚡ Fun fact: I am GPU hungry.  
 <!--- 😄 Pronouns: Anything you like. -->  
 
