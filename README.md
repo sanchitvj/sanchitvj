@@ -3,7 +3,7 @@
 **Here are some ideas to get you started:**
 
 - Temporarily not active on GitHub, working on a research, will be back soon with something exciting.    
-- 🔭 I’m currently working on Deep Learning, Computer Vision, and Object Detection.
+- 🔭 I’m currently working on Deep Learning Computer Vision.
 - ⚙ Kaggle Competitions I'm part of:
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
     - 🥈 Completed, Top 4%, 149/3900(Silver Medal)  
@@ -11,8 +11,8 @@
     - 🥈 Completed, Top 5%, 70/1547(Silver Medal)   
 - 🌱 I’m currently learning TensorFlow and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
-- 📫 How to reach me: sanchitvj1026@gmail.com
-- 🤔 I’m looking for help with Segmentation Algorithm.
+- 📫 How to reach me: sanchit.aiwork@gmail.com
+- 🤔 I’m looking for help with instance and semantic Segmentation.
 - ⚡ Fun fact: I am GPU hungry.  
 <!--- 😄 Pronouns: Anything you like. -->  
 
