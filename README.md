@@ -1,4 +1,4 @@
-<p  align="center"><img height="350" src = "https://github.com/sanchitvj/sanchitvj/blob/master/intro_gif.gif"></p>
+<!--- <p  align="center"><img height="350" src = "https://github.com/sanchitvj/sanchitvj/blob/master/intro_gif.gif"></p>
 
 **Here are some ideas to get you started:**
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me: sanchit.aiwork@gmail.com
 - 🤔 I’m looking for help with instance and semantic Segmentation.
 - ⚡ Fun fact: I am GPU hungry.  
-<!--- 😄 Pronouns: Anything you like. -->  
+😄 Pronouns: Anything you like. -->  
 
 <!--![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515&card_width="450")
 <!--<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  -->
